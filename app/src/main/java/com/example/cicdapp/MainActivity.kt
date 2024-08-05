@@ -30,7 +30,7 @@ import com.microsoft.appcenter.crashes.Crashes
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Android")
+                    Greeting("Hamza")
                 }
             }
         }
