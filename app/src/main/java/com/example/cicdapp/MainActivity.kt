@@ -23,7 +23,7 @@ import com.example.cicdapp.ui.theme.CICDAppTheme
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Hamza")
+                    Greeting("Hamza Bin Tariq to CI/CD")
                 }
             }
         }
